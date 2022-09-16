@@ -129,10 +129,17 @@ Para poner código hay que poner entre \`\` el texto \(este simbolo no se encuen
 
 **Codigo:**
 
-  > `\`Esto es código\``
+  > \`Esto es código\`
 
 **Resultado**
 
   > `Esto es código`
 
 ## Tablas
+
+Para hacer tablas hay que seguir la siguiente estructura:
+
+**Codigo:**
+
+`> \|Celda1-1\|Celda1-2\|Celda1-3\|
+>  \|--------\|--------\|--------\|
