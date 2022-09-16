@@ -112,16 +112,16 @@ Las no ordenadas son solo con asteriscos:
 
 ## Imágenes
 
-  Para poner imágenes escribes entre \[\] el texto alternativo por si no esta la imágen y seguido de eso
+  Para poner imágenes escribes entre \!\[\] el texto alternativo por si no esta la imágen y seguido de eso
   entre \(\) la URL.
  
   **Codigo:**
 
-  >\[Texto Alternativo\]\(markdown.png\)
+  >\!\[Texto Alternativo\]\(markdown.png\)
 
   **Resultado**
 
-   > [Texto Alternativo](markdown.png)
+   > ![Texto Alternativo](markdown.png)
 
 ## Código
 
