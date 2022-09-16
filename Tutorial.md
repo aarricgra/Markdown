@@ -117,11 +117,11 @@ Las no ordenadas son solo con asteriscos:
  
   **Codigo:**
 
-  >\[Link\]\(https://geekytheory.com/content/images/2014/03/markdown.png\)
+  >\[Texto Alternativo\]\(markdown.png\)
 
   **Resultado**
 
-   > [Link](https://geekytheory.com/content/images/2014/03/markdown.png)
+   > [Texto Alternativo](markdown.png)
 
 ## Código
 
