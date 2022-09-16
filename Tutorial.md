@@ -144,15 +144,11 @@ Para hacer tablas hay que seguir la siguiente estructura:
 >` |Celda1-1|Celda1-2|Celda1-3|`  
 >` |--------|--------|--------|`  
 >` |Celda2-1|Celda2-2|Celda2-3|`  
->` |--------|--------|--------|`  
->` |Celda3-1|Celda3-2|Celda3-3|`  
->` |--------|--------|--------|`  
+>` |Celda3-1|Celda3-2|Celda3-3|`   
 
 **Resultado**
 
 > |Celda1-1|Celda1-2|Celda1-3|  
 > |--------|--------|--------|  
-> |Celda2-1|Celda2-2|Celda2-3|  
-> |--------|--------|--------|  
+> |Celda2-1|Celda2-2|Celda2-3|   
 > |Celda3-1|Celda3-2|Celda3-3|  
-> |--------|--------|--------| 
