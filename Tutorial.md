@@ -104,11 +104,11 @@ Las no ordenadas son solo con asteriscos:
  
 **Código:**
 
-  > `[Link](www.google.es)`
+  > `[Link](https://www.google.es)`
 
 **Resultado**
 
-  > [Link](www.google.es)
+  > [Link](https://www.google.es)
 
 ## Imágenes
 
