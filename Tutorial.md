@@ -94,8 +94,8 @@ Las no ordenadas son solo con asteriscos:
 **Resultado**
 
   >* Elemento1  
-  >* Elemento2  
-  >* Elemento3  
+  >+ Elemento2  
+  >- Elemento3  
 
 ## Enlaces
 
