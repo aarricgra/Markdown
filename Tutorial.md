@@ -53,9 +53,9 @@ Entre uno es cursiva y entre dos negrita.
 
 **Codigo:**
 
-  > `\*Cursiva\*`
-  > `\_Cursiva\_`
-  > `\*\*Negrita\*\*`
+  > `\*Cursiva\*`  
+  > `\_Cursiva\_`  
+  > `\*\*Negrita\*\*`  
   > `\_\_Cursiva\_\_`
 
 **Resultado**
@@ -129,7 +129,7 @@ Para poner código hay que poner entre \`\` el texto \(este simbolo no se encuen
 
 **Codigo:**
 
-  > \`Esto es código\`
+  > `\`Esto es código\``
 
 **Resultado**
 
