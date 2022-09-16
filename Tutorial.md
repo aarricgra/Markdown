@@ -112,16 +112,16 @@ Las no ordenadas son solo con asteriscos:
 
 ## Imágenes
 
-  Para poner imágenes escribes entre \[\] el texto en el que se hace click y seguido de eso
+  Para poner imágenes escribes entre \[\] el texto alternativo por si no esta la imágen y seguido de eso
   entre \(\) la URL.
  
   **Codigo:**
 
-  >\[Link\]\(https://es.wikipedia.org/wiki/Markdown\)
+  >\[Link\]\(https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png\)
 
   **Resultado**
 
-   > [Link](https://es.wikipedia.org/wiki/Markdown)
+   > [Link](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 
 ## Código
 
