@@ -87,7 +87,7 @@ Las no ordenadas son solo con asteriscos:
 
 **Codigo:**
 
-  > `\* Elemento1 ` 
+  > `\* Elemento1 `  
   > `\* Elemento2 `  
   > `\* Elemento3 `
 
