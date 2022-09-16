@@ -31,12 +31,31 @@ Se pueden crar listas ordenadas y no ordenadas.
 
 Las ordenadas serian de la siguiente manera:
 
-  >1. 1.Elemento1
-  >2. 2.Elemento2
-  >3. 3.Elemento3
+**Codigo:**
 
-Las no ordenadas son solo con asteriscos.
+  >1.Elemento1
+  
+  >2.Elemento2
+  
+  >3.Elemento3
+
+**Resultado**
+  
+  >1. Elemento1
+  >2. Elemento2
+  >3. Elemento3
+ 
+Las no ordenadas son solo con asteriscos:
+
+**Codigo:**
+
+  >*Elemento1
+  >*Elemento2
+  >*Elemento3
+
+**Resultado**
 
   >* Elemento1
   >* Elemento2
   >* Elemento3
+
