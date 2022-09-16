@@ -46,6 +46,25 @@ Las citas se hacen añadiendo un mayor que ">" delante del texto.
 
   > Esto es una cita
 
+## Estilos de texto(Negrita y cursiva)
+
+Para poner estos estilos hay que meter el texto al que queramos aplicarlo entre \* o \_.
+Entre uno es cursiva y entre dos negrita.
+
+**Codigo:**
+
+  > \*Cursiva\*
+  > \_Cursiva\_
+  > \*\*Negrita\*\*
+  > \_\_Cursiva\_\_
+
+**Resultado**
+
+  > *Cursiva*
+  > _Cursiva_
+  > **Negrita**
+  > __Negrita__
+
 ## Listas
 
 Se pueden crar listas ordenadas y no ordenadas. 
@@ -78,3 +97,34 @@ Las no ordenadas son solo con asteriscos:
   >* Elemento2
   >* Elemento3
 
+## Enlaces
+
+ Para poner enlaces escribes entre \[\] el texto en el que se hace click y seguido de eso
+ entre \(\) la URL.
+ 
+ **Codigo:**
+
+  >\[Link\]\(www.google.es\)
+
+**Resultado**
+
+  > [Link](www.google.es)
+
+## Imágenes
+
+  Para poner imágenes escribes entre \[\] el texto en el que se hace click y seguido de eso
+  entre \(\) la URL.
+ 
+  **Codigo:**
+
+  >\[Link\]\(https://es.wikipedia.org/wiki/Markdown\)
+
+  **Resultado**
+
+   > [Link](https://es.wikipedia.org/wiki/Markdown)
+
+## Código
+
+
+
+## Tablas
