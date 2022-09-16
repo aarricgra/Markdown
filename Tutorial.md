@@ -5,7 +5,7 @@ Los parrafos se escriben como en un documento de texto, al final pones un salto 
 
 **Codigo:**
 
-  >Este es el parrafo1.  
+  >'Este es el parrafo1.' 
   >Este es el parrafo2.
 
 **Resultado**
