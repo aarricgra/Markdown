@@ -3,7 +3,7 @@
 
 Los parrafos se escriben como en un documento de texto, al final pones un salto de linea para pasar al siguiente
 
-**Codigo:**
+**Código:**
 
   > `Este es el parrafo1.`  
   > `Este es el parrafo2.`
@@ -18,7 +18,7 @@ Los parrafos se escriben como en un documento de texto, al final pones un salto 
 Se pueden crear diferentes niveles de encabezados dependiendo 
 de la cantidad de almoadillas que pongas.
 
-**Codigo:**
+**Código:**
 
   > `# Encabezado 1`  
   > `## Encabezado 2`  
@@ -38,7 +38,7 @@ de la cantidad de almoadillas que pongas.
 
 Las citas se hacen añadiendo un mayor que ">" delante del texto.
 
-**Codigo:**
+**Código:**
 
   > `>Esto es una cita`
 
@@ -51,7 +51,7 @@ Las citas se hacen añadiendo un mayor que ">" delante del texto.
 Para poner estos estilos hay que meter el texto al que queramos aplicarlo entre \* o \_.
 Entre uno es cursiva y entre dos negrita.
 
-**Codigo:**
+**Código:**
 
   > `*Cursiva*`  
   > `_Cursiva_`  
@@ -71,7 +71,7 @@ Se pueden crar listas ordenadas y no ordenadas.
 
 Las ordenadas serian de la siguiente manera:
 
-**Codigo:**
+**Código:**
 
   > `1. Elemento1`  
   > `2. Elemento2`  
@@ -85,7 +85,7 @@ Las ordenadas serian de la siguiente manera:
  
 Las no ordenadas son solo con asteriscos:
 
-**Codigo:**
+**Código:**
 
   > `* Elemento1 `  
   > `* Elemento2 `  
@@ -102,7 +102,7 @@ Las no ordenadas son solo con asteriscos:
  Para poner enlaces escribes entre \[\] el texto en el que se hace click y seguido de eso
  entre \(\) la URL.
  
-**Codigo:**
+**Código:**
 
   > `[Link](www.google.es)`
 
@@ -115,7 +115,7 @@ Las no ordenadas son solo con asteriscos:
   Para poner imágenes escribes entre \!\[\] el texto alternativo por si no esta la imágen y seguido de eso
   entre \(\) la URL.
  
-**Codigo:**
+**Código:**
 
   > `![Texto Alternativo](markdown.png)`
 
@@ -127,7 +127,7 @@ Las no ordenadas son solo con asteriscos:
 
 Para poner código hay que poner entre \`\` el texto \(este símbolo no se encuentra en el teclado español\).
 
-**Codigo:**
+**Código:**
 
   > \`Esto es código\`
 
@@ -139,7 +139,7 @@ Para poner código hay que poner entre \`\` el texto \(este símbolo no se encue
 
 Para hacer tablas hay que seguir la siguiente estructura:
 
-**Codigo:**
+**Código:**
 
 >` |Celda1-1|Celda1-2|Celda1-3|`  
 >` |--------|--------|--------|`  
