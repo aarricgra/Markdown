@@ -7,8 +7,7 @@ de la cantidad de almoadillas que pongas.
 
 **Codigo:**
 
-  > #Encabezado 1
-  
+  > #Encabezado 1  
   > ##Encabezado 2
   
   > ###Encabezado 3
