@@ -146,6 +146,8 @@ Para hacer tablas hay que seguir la siguiente estructura:
 >` |Celda2-1|Celda2-2|Celda2-3|`  
 >` |Celda3-1|Celda3-2|Celda3-3|`   
 
+>Hay que poner 3 o mas guiones para que cuente.
+
 **Resultado**
 
 > |Celda1-1|Celda1-2|Celda1-3|  
