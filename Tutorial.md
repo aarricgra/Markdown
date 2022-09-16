@@ -121,7 +121,7 @@ Las no ordenadas son solo con asteriscos:
 
   **Resultado**
 
-   > ![Texto Alternativo](markdown.png)
+   > ! [Texto Alternativo](markdown.png)
 
 ## Código
 
