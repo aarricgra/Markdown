@@ -125,7 +125,7 @@ Las no ordenadas son solo con asteriscos:
 
 ## Código
 
-Para poner código hay que poner entre \`\` el texto \(este simbolo no se encuentra en el teclado español\).
+Para poner código hay que poner entre \`\` el texto \(este símbolo no se encuentra en el teclado español\).
 
 **Codigo:**
 
