@@ -5,8 +5,8 @@ Los parrafos se escriben como en un documento de texto, al final pones un salto 
 
 **Codigo:**
 
-  > 'Este es el parrafo1.'  
-  >Este es el parrafo2.
+  > `Este es el parrafo1.`  
+  > `Este es el parrafo2.`
 
 **Resultado**
   
@@ -20,11 +20,11 @@ de la cantidad de almoadillas que pongas.
 
 **Codigo:**
 
-  > \# Encabezado 1  
-  > \## Encabezado 2  
-  > \### Encabezado 3  
-  > \#### Encabezado 4  
-  > \##### Encabezado 5  
+  > `\# Encabezado 1`  
+  > `\## Encabezado 2`  
+  > `\### Encabezado 3`  
+  > `\#### Encabezado 4`  
+  > `\##### Encabezado 5`  
    
 **Resultado:**
 
@@ -40,7 +40,7 @@ Las citas se hacen añadiendo un mayor que ">" delante del texto.
 
 **Codigo:**
 
-  > \>Esto es una cita
+  > `\>Esto es una cita`
 
 **Resultado**
 
@@ -53,10 +53,10 @@ Entre uno es cursiva y entre dos negrita.
 
 **Codigo:**
 
-  > \*Cursiva\*
-  > \_Cursiva\_
-  > \*\*Negrita\*\*
-  > \_\_Cursiva\_\_
+  > `\*Cursiva\*`
+  > `\_Cursiva\_`
+  > `\*\*Negrita\*\*`
+  > `\_\_Cursiva\_\_`
 
 **Resultado**
 
@@ -73,9 +73,9 @@ Las ordenadas serian de la siguiente manera:
 
 **Codigo:**
 
-  >\1. Elemento1  
-  >\2. Elemento2  
-  >\3. Elemento3
+  > `\1. Elemento1`  
+  > `\2. Elemento2`  
+  > `\3. Elemento3`
 
 **Resultado**
   
@@ -87,9 +87,9 @@ Las no ordenadas son solo con asteriscos:
 
 **Codigo:**
 
-  >\* Elemento1  
-  >\* Elemento2  
-  >\* Elemento3
+  > `\* Elemento1 ` 
+  > `\* Elemento2 `  
+  > `\* Elemento3 `
 
 **Resultado**
 
@@ -102,9 +102,9 @@ Las no ordenadas son solo con asteriscos:
  Para poner enlaces escribes entre \[\] el texto en el que se hace click y seguido de eso
  entre \(\) la URL.
  
- **Codigo:**
+**Codigo:**
 
-  >\[Link\]\(www.google.es\)
+  > `\[Link\]\(www.google.es\)`
 
 **Resultado**
 
@@ -115,16 +115,24 @@ Las no ordenadas son solo con asteriscos:
   Para poner imágenes escribes entre \!\[\] el texto alternativo por si no esta la imágen y seguido de eso
   entre \(\) la URL.
  
-  **Codigo:**
+**Codigo:**
 
-  >\!\[Texto Alternativo\]\(markdown.png\)
+  > `\!\[Texto Alternativo\]\(markdown.png\)`
 
-  **Resultado**
+**Resultado**
 
-   > ![Texto Alternativo](markdown.png)
+  > ![Texto Alternativo](markdown.png)
 
 ## Código
 
+Para poner código hay que poner entre \`\` el texto \(este simbolo no se encuentra en el teclado español\).
 
+**Codigo:**
+
+  > \`Esto es código\`
+
+**Resultado**
+
+  > `Esto es código`
 
 ## Tablas
