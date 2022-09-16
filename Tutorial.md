@@ -141,5 +141,5 @@ Para hacer tablas hay que seguir la siguiente estructura:
 
 **Codigo:**
 
-`> \|Celda1-1\|Celda1-2\|Celda1-3\|
->  \|--------\|--------\|--------\|
+>` \|Celda1-1\|Celda1-2\|Celda1-3\|`
+>`  \|--------\|--------\|--------\|`
