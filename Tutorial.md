@@ -56,7 +56,7 @@ Entre uno es cursiva y entre dos negrita.
   > `\*Cursiva\*`  
   > `\_Cursiva\_`  
   > `\*\*Negrita\*\*`  
-  > `\_\_Cursiva\_\_`
+  > `\_\_Cursiva\_\_`  
 
 **Resultado**
 
