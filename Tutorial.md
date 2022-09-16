@@ -117,11 +117,11 @@ Las no ordenadas son solo con asteriscos:
  
   **Codigo:**
 
-  >\[Link\]\(https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png\)
+  >\[Link\]\(https://geekytheory.com/content/images/2014/03/markdown.png\)
 
   **Resultado**
 
-   > [Link](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+   > [Link](https://geekytheory.com/content/images/2014/03/markdown.png)
 
 ## Código
 
