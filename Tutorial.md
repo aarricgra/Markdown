@@ -20,11 +20,11 @@ de la cantidad de almoadillas que pongas.
 
 **Codigo:**
 
-  > #Encabezado 1  
-  > ##Encabezado 2  
-  > ###Encabezado 3  
-  > ####Encabezado 4  
-  > #####Encabezado 5  
+  > \# Encabezado 1  
+  > \## Encabezado 2  
+  > \### Encabezado 3  
+  > \#### Encabezado 4  
+  > \##### Encabezado 5  
    
 **Resultado:**
 
@@ -40,7 +40,7 @@ Las citas se hacen añadiendo un mayor que ">" delante del texto.
 
 **Codigo:**
 
-  > >Esto es una cita
+  > \>Esto es una cita
 
 **Resultado**
 
@@ -54,9 +54,9 @@ Las ordenadas serian de la siguiente manera:
 
 **Codigo:**
 
-  >1.Elemento1  
-  >2.Elemento2  
-  >3.Elemento3
+  >\1. Elemento1  
+  >\2. Elemento2  
+  >\3. Elemento3
 
 **Resultado**
   
@@ -68,9 +68,9 @@ Las no ordenadas son solo con asteriscos:
 
 **Codigo:**
 
-  >*Elemento1  
-  >*Elemento2  
-  >*Elemento3
+  >\* Elemento1  
+  >\* Elemento2  
+  >\* Elemento3
 
 **Resultado**
 
