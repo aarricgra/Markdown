@@ -60,9 +60,9 @@ Entre uno es cursiva y entre dos negrita.
 
 **Resultado**
 
-  > *Cursiva*
-  > _Cursiva_
-  > **Negrita**
+  > *Cursiva*  
+  > _Cursiva_  
+  > **Negrita**  
   > __Negrita__
 
 ## Listas
@@ -93,9 +93,9 @@ Las no ordenadas son solo con asteriscos:
 
 **Resultado**
 
-  >* Elemento1
-  >* Elemento2
-  >* Elemento3
+  >* Elemento1  
+  >* Elemento2  
+  >* Elemento3  
 
 ## Enlaces
 
