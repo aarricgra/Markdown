@@ -96,7 +96,7 @@ Las ordenadas serian de la siguiente manera:
   >2. Elemento2
   >3. Elemento3
  
-Las no ordenadas son solo con asteriscos:
+Las no ordenadas son solo con \*,+,- y dependiendo de la tabulacíon salen diferentes niveles:
 
 **Código:**
 
@@ -107,8 +107,8 @@ Las no ordenadas son solo con asteriscos:
 **Resultado**
 
   >* Elemento1  
-  >+ Elemento2  
-  >- Elemento3  
+  > + Elemento2  
+  >   - Elemento3  
 
 ## Enlaces
 
