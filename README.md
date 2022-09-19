@@ -102,7 +102,7 @@ Las no ordenadas son solo con \*,+,- y dependiendo de la tabulacíon salen difer
 
   > `- Elemento1 `  
   > `- Elemento2 `  
-  > ` * Elemento3 `
+  > `  * Elemento3 `
 
 **Resultado**
 
