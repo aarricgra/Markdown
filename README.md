@@ -4,13 +4,12 @@
 1. [Párrafos](#Párrafos)
 2. [Encabezados](#Encabezados)
 3. [Citas](#Citas)
-4. [Estilos de texto(Negrita y cursiva)](#Estilos de texto(Negrita y cursiva))
-5.
-6.
-7.
-8.
-9.
-10.
+4. [Estilos](#Estilos)
+5. [Listas](#Listas)
+6. [Enlaces](#Enlaces)
+7. [Imágenes](#Imágenes)
+8. [Código](#Código)
+9. [Tablas](#Tablas)
 
 
 ## Párrafos
@@ -60,7 +59,7 @@ Las citas se hacen añadiendo un mayor que ">" delante del texto.
 
   > Esto es una cita
 
-## Estilos de texto(Negrita y cursiva)
+## Estilos
 
 Para poner estos estilos hay que meter el texto al que queramos aplicarlo entre \* o \_.
 Entre uno es cursiva y entre dos negrita.
