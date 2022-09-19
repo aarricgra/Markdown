@@ -1,8 +1,8 @@
 # Tutorial Markdown
 # Índice
 
-1. [Párrafos](## Párrafos)
-2. [Encabezados]()
+1. [Párrafos](#Párrafos)
+2. [Encabezados](#Encabezados)
 3.
 4.
 5.
