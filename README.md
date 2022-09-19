@@ -3,13 +3,14 @@
 
 1. [Párrafos](#Párrafos)
 2. [Encabezados](#Encabezados)
-3.
-4.
+3. [Citas](#Citas)
+4. [Estilos de texto(Negrita y cursiva)](#Estilos de texto(Negrita y cursiva))
 5.
 6.
 7.
 8.
 9.
+10.
 
 
 ## Párrafos
